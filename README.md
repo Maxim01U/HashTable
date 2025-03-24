@@ -24,7 +24,7 @@ Pirmajā rindā ir viens vesels skaitlis N — vaicājumu skaits. Tam seko N rin
 
 Input:\
 12\
-add 911 police\
+add 911 Police\
 add 76213 Mom\
 add 17239 Bob\
 find 76213\
@@ -34,7 +34,7 @@ delete 910\
 delete 911\
 find 911\
 find 76213\
-add 76213 daddy\
+add 76213 Daddy\
 find 76213
 
 Output:\
@@ -43,7 +43,7 @@ not found\
 Police\
 not found\
 Mom\
-daddy
+Daddy
 
 
 ## hash() 
